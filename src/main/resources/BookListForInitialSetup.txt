@@ -1,0 +1,40 @@
+[{
+  "title" : "Great Expectations",
+  "author" : "Charles Dickens",
+  "rating" : 4.8,
+   "price" : 12.99,
+	"format" : "Hardcover"
+}
+,
+{
+  "title" : "Oliver Twist",
+  "author" : "Charles Dickens",
+  "rating" : 4.5,
+   "price" : 11.99,
+	"format" : "Hardcover"
+}
+,
+{
+  "title" : "A Tale of Two Cities",
+  "author" : "Charles Dickens",
+  "rating" : 4.9,
+   "price" : 14.99,
+	"format" : "Hardcover"
+}
+,
+{
+  "title" : "The Merchant of Venice",
+  "author" : "William Shakespeare",
+  "rating" : 4.8,
+   "price" : 10.99,
+	"format" : "Hardcover"
+}
+,
+{
+  "title" : "The Taming of the Shrew",
+  "author" : "William Shakespeare",
+  "rating" : 4.8,
+   "price" : 9.99,
+	"format" : "Hardcover"
+}
+]
