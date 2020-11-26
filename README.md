@@ -1,6 +1,9 @@
 # productsearch-webflux
 Search Application built using Spring Webflux
 
+Swagger url : {Base URL}/swagger-ui/index.html (http://localhost:8080/swagger-ui/index.html)
+
+
 
 Database : MongoDB
 Framework : Spring WebFlux
