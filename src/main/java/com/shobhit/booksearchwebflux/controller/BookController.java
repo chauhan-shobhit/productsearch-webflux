@@ -13,12 +13,12 @@ public interface BookController {
 
   public Mono<ResponseEntity<Book>> getBookById(String Id);
 
-  public Flux<ResponseEntity<Book>> getAllBooks();
+  public Flux<Book> getAllBooks();
 
-  public Mono<ResponseEntity<Book>> updateBook(Book book);
+  public Mono<Book> updateBook(String Id, Book book);
 
-  public Mono<ResponseEntity<Void>> deleteBookById(String Id);
+  public Mono<Void> deleteBookById(String Id);
 
-  public Flux<ResponseEntity<Void>> deleteAllBooks();
+  public Mono<Void> deleteAllBooks();
 
 }
